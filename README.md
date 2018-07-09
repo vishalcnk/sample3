@@ -1,1 +1,3 @@
 # sample3
+my name naresh 
+this my 3rd line...
